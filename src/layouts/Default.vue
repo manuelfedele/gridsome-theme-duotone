@@ -28,6 +28,3 @@ query {
   }
 }
 </static-query>
-
-<style>
-</style>
