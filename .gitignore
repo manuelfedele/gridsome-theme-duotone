@@ -3,6 +3,8 @@
 .DS_Store
 src/.temp
 .env.*
+!static/.gitkeep
+/static/*
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/node
