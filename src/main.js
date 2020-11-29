@@ -2,10 +2,7 @@
 // The Client API can be used here. Learn more: gridsome.org/docs/client-api
 
 
-
-import '~/assets/style.css'
-import '~/assets/blue.css'
-
+import '~/assets/css/style.scss'
 
 import DefaultLayout from '~/layouts/Default.vue'
 
