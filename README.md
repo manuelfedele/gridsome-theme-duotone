@@ -1,12 +1,12 @@
 # Gridsome Duotone Theme
 
-This theme is a fork/port of Terminal theme, for Hugo (https://github.com/panr/hugo-theme-terminal)
-All the CSS is actually the same of hugo-theme-terminal. The main purpose is to rewrite, customize and improve this CSS.
+This theme is a **Gridsome** fork/port of `hugo-theme-terminal` (https://github.com/panr/hugo-theme-terminal)
+All the CSS is actually the same of `hugo-theme-terminal`. The main purpose is to rewrite, customize and improve this CSS.
 I'm not a CSS expert, so I'll need some help for this.
 
 ### 1. Install Gridsome CLI tool if you don't have it
 
-`npm install --global @gridsome/cli`
+`npm install --global @gridsome/cli` or
 `yarn global add @gridsome/cli`
 
 ### 2. Create a Gridsome project
