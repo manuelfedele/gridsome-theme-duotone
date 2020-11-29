@@ -11,7 +11,7 @@ I'm not a CSS expert, so I'll need some help for this.
 
 ### 2. Create a Gridsome project
 
-1. `gridsome create my-gridsome-site manuelfedele/gridsome-duotone` to install the theme
+1. `gridsome create my-gridsome-site manuelfedele/gridsome-duotone-theme` to install the theme
 2. `cd my-gridsome-site` to open the folder
 3. `gridsome develop` to start a local dev server at `http://localhost:8080`
 
