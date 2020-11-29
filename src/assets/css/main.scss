@@ -131,7 +131,7 @@ code,
 kbd {
   font-family: "Fira Code", Monaco, Consolas, Ubuntu Mono, monospace;
   font-feature-settings: normal;
-  background: color-mod(var(--accent) a(20%));
+  background: rgba(var(--accent-rgb), 0.2);
   color: var(--accent);
   padding: 1px 6px;
   margin: 0 2px;
@@ -205,7 +205,7 @@ blockquote {
 
   &.twitter-tweet {
     position: relative;
-    background: color-mod(var(--accent) a(10%));
+    background: rgba(var(--accent-rgb), 0.1);
     font: inherit;
     color: inherit;
     border: 1px solid var(--accent);

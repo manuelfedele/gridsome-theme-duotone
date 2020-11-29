@@ -36,7 +36,7 @@
   &-meta {
     font-size: 1rem;
     margin-bottom: 10px;
-    color: color-mod(var(--accent) a(70%));
+    color: rgba(var(--accent-rgb), 0.7);
   }
 
   &-title {
@@ -117,7 +117,7 @@
 }
 
 .hanchor {
-  color: color-mod(var(--accent) alpha(90%));
+  color: rgba(var(--accent-rgb), 0.9);
   text-decoration: none;
   margin-left: 10px;
   visibility: hidden;
@@ -131,5 +131,5 @@ h4:hover a {
 }
 
 .footnotes {
-  color: color-mod(var(--color) alpha(50%));
+  color: rgba(var(--accent-rgb), 0.5);
 }

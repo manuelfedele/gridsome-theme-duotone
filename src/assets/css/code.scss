@@ -1,5 +1,5 @@
 .collapsable-code {
-  --border-color: color-mod(var(--accent) blend(#999 90%));
+  --border-color: rgba(var(--accent-rgb), 0.9);
 
   position: relative;
   width: 100%;

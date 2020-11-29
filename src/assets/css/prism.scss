@@ -75,7 +75,7 @@ pre[class*="language-"].line-numbers > code {
   left: -3.8em;
   width: 3em; /* works for line-numbers below 1000 lines */
   letter-spacing: -1px;
-  border-right: 1px solid color-mod(var(--accent) blend(#999 90%) a(20%));
+  border-right: 1px solid rgba(var(--accent-rgb), 0.2);
   user-select: none;
 }
 
@@ -87,7 +87,7 @@ pre[class*="language-"].line-numbers > code {
 
 .line-numbers-rows > span:before {
   content: counter(linenumber);
-  color: color-mod(var(--accent) blend(#999 90%) a(40%));
+  color: rgba(var(--accent-rgb), 0.4);
   display: block;
   padding-right: 0.8em;
   text-align: right;
