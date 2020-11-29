@@ -1,14 +1,23 @@
-# Default starter for Gridsome
+# Gridsome Duotone Theme
 
-This is the project you get when you run `gridsome create new-project`.
+This theme is a fork/port of Terminal theme, for Hugo (https://github.com/panr/hugo-theme-terminal)
+All the CSS is actually the same of hugo-theme-terminal. The main purpose is to rewrite, customize and improve this CSS.
+I'm not a CSS expert, so I'll need some help for this.
 
-### 1. Install Gridsome CLI tool if you don't have
+### 1. Install Gridsome CLI tool if you don't have it
 
 `npm install --global @gridsome/cli`
+`yarn global add @gridsome/cli`
 
 ### 2. Create a Gridsome project
 
-1. `gridsome create my-gridsome-site` to install default starter
+1. `gridsome create my-gridsome-site manuelfedele/gridsome-duotone` to install the theme
 2. `cd my-gridsome-site` to open the folder
 3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+
+### 3. Create a Post or customize 'sample.md'
+
+Posts are placed under `content/posts` directory. You will find a sample post there, named `sample.md`.
+Feel free to modify or delete it.
+
+Happy coding 🎉🙌
