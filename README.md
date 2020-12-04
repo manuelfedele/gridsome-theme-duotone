@@ -1,4 +1,4 @@
-# Gridsome Duotone Theme
+# Gridsome Theme Duotone
 
 This theme is a **Gridsome** fork/port of `hugo-theme-terminal` (https://github.com/panr/hugo-theme-terminal)
 All the CSS is actually the same of `hugo-theme-terminal`. The main purpose is to rewrite, customize and improve this CSS.
